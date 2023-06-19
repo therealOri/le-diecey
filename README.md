@@ -45,6 +45,7 @@ __ __
 
 # Demo
 [![asciicast](https://asciinema.org/a/wY23og3yHZ6S3a8v24HQYQBej.svg)](https://asciinema.org/a/wY23og3yHZ6S3a8v24HQYQBej)
+> As of (update) 06/19/23 - The results may look a bit different but the menu and options are still the same.
 __ __
 
 <br />
