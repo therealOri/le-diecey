@@ -8,7 +8,7 @@ A python script/program that rolls dice. (Also for D&amp;D)
 > 06/19/23
 Updated:
 
-- Randomness is now generated via atmospheric noise instead of math. Should be as close to random as one could get.
+- Randomness is now generated via atmospheric noise instead of math. Should be as close to random as one could get. (All thanks to [random.org](https://www.random.org/))
 
 - Bug fixes with custom rolling has been fixed.
 __ __
