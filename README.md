@@ -4,6 +4,28 @@ A python script/program that rolls dice. (Also for D&amp;D)
 <br>
 <br>
 
+# Updates
+> 06/19/23
+Updated:
+
+- Randomness is now generated via atmospheric noise instead of math. Should be as close to random as one could get.
+
+- Bug fixes with custom rolling has been fixed.
+__ __
+
+<br>
+<br>
+
+# Extra Info
+When rolling a d10 die, it is formatted as `0-9`. The percentile die is `00-90`. When they are rolled in tandem, you will get something like `d10: 7` & `d10p: 60`. This should be read as `67`. If the d10 rolls a "0", it should be read as a `10`. If you get "00" for the percentile die, your percentile roll is whatever the d10 shows ~~or 100~~. If the d10 also rolls a "0", giving you `0`:`00`...then it should be treadted as `100`.
+
+However, if you would like to do percentile rolls a different way, you can just pick `custom` in the d&d menu and roll 2 d10s and do it that way. (I have seen/heard that is another way of doing percentile rolls). I am not sure how common it is to roll 2 d10s, but hey..it's an option.
+__ __
+
+<br>
+<br>
+
+
 # Install & Play
 ```
 git clone https://github.com/therealOri/le-diecey.git
